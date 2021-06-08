@@ -20,7 +20,7 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: 송금택
+name: SongGeumTaek's Blog
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - one liner one...
