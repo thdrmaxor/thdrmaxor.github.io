@@ -24,7 +24,7 @@ name: My Gitlog
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 강릉원주대학교
-  - 20161571 
+  - 20161571 송금택
 description: 깃허브 블로그 테스트
 
 disqus:
