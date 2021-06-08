@@ -20,7 +20,7 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: SongGeumTaek's Blog
+name: My Gitlog
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 강릉원주대학교
