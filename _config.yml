@@ -20,12 +20,12 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
+name: 송금택
 title: site title # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - one liner one...
   - one liner two...
-description: "Some short description on your site" # Required
+description: 깃허브 블로그 테스트
 
 disqus:
   comments: true # Global toggle on/off disqus comment
